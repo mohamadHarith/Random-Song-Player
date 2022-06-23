@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsdom": "^13.2.0",
+    "jsdom": "^16.5.0",
     "live-server": "^1.2.1",
     "opn": "^5.4.0",
     "xmlhttprequest": "^1.8.0",
